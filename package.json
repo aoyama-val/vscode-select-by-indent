@@ -18,7 +18,8 @@
 		"onCommand:vscode-select-by-indent.select-top-only",
 		"onCommand:vscode-select-by-indent.select-inner",
 		"onCommand:vscode-select-by-indent.select-outer",
-		"onCommand:vscode-select-by-indent.select-outer-top-only"
+		"onCommand:vscode-select-by-indent.select-outer-top-only",
+		"onCommand:vscode-select-by-indent.select-outer-down"
 	],
 	"browser": "./dist/web/main.js",
 	"contributes": {
